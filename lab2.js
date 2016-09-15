@@ -1,5 +1,6 @@
 //Created by Ross Keddy
-//For some reason JSbin wont accept a return statement
+//For some reason JSbin wont accept a return statement 
+//but codeacademy wanted it like this
 
 var userChoice = prompt("Do you choose rock, paper or scissors?");
 var computerChoice = Math.random();
